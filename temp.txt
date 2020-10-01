@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 #define endl '\n'
+#define ll long long
 #define mod 1000000007
 #define pb push_back
+using namespace std;
 
 /*ll int power(ll int base,ll int exponent)
 {   
